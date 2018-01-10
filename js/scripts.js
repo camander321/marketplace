@@ -17,8 +17,8 @@ $(document).ready(function() {
     event.preventDefault();
   });
 
-  // $(".well").click(function(){
-  //   $(".thumbnail").hide();
-  //   alert(this.getElementsByClassName("thumbnail"));
-  // });
+  $(".well").click(function(){
+    $(".thumbnail").hide();
+    $(this).children("img").fadeIn();
+  });
 });

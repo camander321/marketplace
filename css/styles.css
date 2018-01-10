@@ -1,3 +1,10 @@
+body {
+  background-image: url("https://i.pinimg.com/originals/da/4c/e2/da4ce2105542ab7444830843538ce7dc.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
 .summary {
   display: none;
 }
@@ -7,7 +14,11 @@
 }
 
 img.thumbnail {
-  /*display: none;*/
+  display: none;
   width: 100px;
   height: 100px;
+}
+
+.summary {
+  color: white;
 }
