@@ -1,0 +1,13 @@
+.summary {
+  display: none;
+}
+
+.jumbotron {
+  text-align: center;
+}
+
+img.thumbnail {
+  /*display: none;*/
+  width: 100px;
+  height: 100px;
+}
