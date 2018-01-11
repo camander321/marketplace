@@ -11,6 +11,9 @@ body {
 
 .jumbotron {
   text-align: center;
+  background-color: darkgray;
+  color: pink;
+  font-style: comic;
 }
 
 img.thumbnail {
@@ -20,5 +23,9 @@ img.thumbnail {
 }
 
 .summary {
+  color: white;
+}
+
+ .white-label {
   color: white;
 }
